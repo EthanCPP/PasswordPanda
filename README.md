@@ -1,5 +1,15 @@
 # Panda - Password Manager
 
+## Demo
+
+For a demo of this software go here:
+
+https://panda.ethan-webster.com
+
+**Email**: demo@demo.com
+
+**Password**: demopassword123
+
 **Documentation is limited.**
 
 ## About
