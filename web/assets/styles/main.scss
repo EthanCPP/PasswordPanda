@@ -1,0 +1,10 @@
+// Import bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+@import "fonts";
+@import "variables";
+@import "globals";
+@import "header";
+
+@import "page/vault-index";
+@import "page/vault-add-password";

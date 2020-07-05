@@ -1,0 +1,9 @@
+web/vendor
+.env
+web/composer.lock
+web/dist
+web/package-lock.json
+web/node_modules
+web/assets/images/favicons/*
+!web/assets/images/favicons/.gitkeep
+panda
